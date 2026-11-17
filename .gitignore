@@ -1,0 +1,10 @@
+# Fichiers temporaires et sauvegardes locales
+*.tmp
+*.bak
+*.log
+*~
+.DS_Store
+Thumbs.db
+__pycache__/
+# Garder uniquement la scene versionnee dans scene/
+*.ttt.autosave

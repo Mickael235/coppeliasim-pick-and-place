@@ -1,0 +1,8 @@
+file	handle	parent_alias	script_alias	bytes
+01_conveyor_Script.lua	16	conveyor	Script	484
+02_IRB140_IK.lua	158	IRB140	IK	2923
+03_IRB140_script.lua	159	IRB140	script	1472
+04_capteur_pick_script.lua	179	capteur_pick	script	10656
+05_Camera_LinkedIn_script.lua	194	Camera_LinkedIn	script	4317
+06_dummy_script.lua	199	dummy	script	5967
+07_RG2_Script.lua	112	RG2	Script	2826
